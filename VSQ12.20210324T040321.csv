@@ -78,88 +78,84 @@ Births Registered,2008Q2,36,Number,1196
 Births Registered,2008Q2,37,Number,350
 Births Registered,2008Q2,38,Number,605
 Births Registered,2008Q2,39,Number,241
-Births Registered,2008Q2,Outside the State,Number,
-Births Registered,2008Q3,State,Number,19650
-Births Registered,2008Q3,Dublin City,Number,2037
-Births Registered,2008Q3,Fingal,Number,737
-Births Registered,2008Q3,Dun Laoghaire Rathdown,Number,1426
-Births Registered,2008Q3,South Dublin,Number,1254
-Births Registered,2008Q3,Leinster,Number,11317
-Births Registered,2008Q3,Wicklow,Number,661
-Births Registered,2008Q3,Carlow,Number,275
-Births Registered,2008Q3,Kildare,Number,1043
-Births Registered,2008Q3,Kilkenny,Number,399
-Births Registered,2008Q3,Laois,Number,325
-Births Registered,2008Q3,Longford,Number,204
-Births Registered,2008Q3,Louth,Number,574
-Births Registered,2008Q3,Meath,Number,978
-Births Registered,2008Q3,Offaly,Number,333
-Births Registered,2008Q3,Westmeath,Number,401
-Births Registered,2008Q3,Wexford,Number,670
-Births Registered,2008Q3,Munster,Number,5151
-Births Registered,2008Q3,Waterford County,Number,273
-Births Registered,2008Q3,Waterford City,Number,255
-Births Registered,2008Q3,Clare,Number,469
-Births Registered,2008Q3,Cork City,Number,426
-Births Registered,2008Q3,Cork County,Number,1763
-Births Registered,2008Q3,Kerry,Number,515
-Births Registered,2008Q3,Limerick City,Number,253
-Births Registered,2008Q3,Limerick County,Number,543
-Births Registered,2008Q3,North Tipperary,Number,327
-Births Registered,2008Q3,South Tipperary,Number,327
-Births Registered,2008Q3,Tipperary,Number,
-Births Registered,2008Q3,Connacht,Number,2083
-Births Registered,2008Q3,Galway City,Number,277
-Births Registered,2008Q3,Leitrim,Number,114
-Births Registered,2008Q3,Mayo,Number,446
-Births Registered,2008Q3,Roscommon,Number,244
-Births Registered,2008Q3,Sligo,Number,234
-Births Registered,2008Q3,Galway County,Number,768
-Births Registered,2008Q3,Ulster (pt),Number,1099
-Births Registered,2008Q3,Cavan,Number,335
-Births Registered,2008Q3,Donegal,Number,553
-Births Registered,2008Q3,Monaghan,Number,211
-Births Registered,2008Q3,Outside the State,Number,
-Births Registered,2008Q4,State,Number,17880
-Births Registered,2008Q4,Dublin City,Number,1867
-Births Registered,2008Q4,Fingal,Number,1318
-Births Registered,2008Q4,Dun Laoghaire Rathdown,Number,622
-Births Registered,2008Q4,South Dublin,Number,1107
-Births Registered,2008Q4,Leinster,Number,10186
-Births Registered,2008Q4,Wicklow,Number,592
-Births Registered,2008Q4,Carlow,Number,256
-Births Registered,2008Q4,Kildare,Number,915
-Births Registered,2008Q4,Kilkenny,Number,333
-Births Registered,2008Q4,Laois,Number,329
-Births Registered,2008Q4,Longford,Number,166
-Births Registered,2008Q4,Louth,Number,516
-Births Registered,2008Q4,Meath,Number,916
-Births Registered,2008Q4,Offaly,Number,294
-Births Registered,2008Q4,Westmeath,Number,369
-Births Registered,2008Q4,Wexford,Number,586
-Births Registered,2008Q4,Munster,Number,4678
-Births Registered,2008Q4,Waterford County,Number,220
-Births Registered,2008Q4,Waterford City,Number,197
-Births Registered,2008Q4,Clare,Number,426
-Births Registered,2008Q4,Cork City,Number,343
-Births Registered,2008Q4,Cork County,Number,1687
-Births Registered,2008Q4,Kerry,Number,488
-Births Registered,2008Q4,Limerick City,Number,218
-Births Registered,2008Q4,Limerick County,Number,507
-Births Registered,2008Q4,North Tipperary,Number,302
-Births Registered,2008Q4,South Tipperary,Number,290
-Births Registered,2008Q4,Tipperary,Number,
-Births Registered,2008Q4,Connacht,Number,1990
-Births Registered,2008Q4,Galway City,Number,224
-Births Registered,2008Q4,Leitrim,Number,131
-Births Registered,2008Q4,Mayo,Number,442
-Births Registered,2008Q4,Roscommon,Number,216
-Births Registered,2008Q4,Sligo,Number,243
-Births Registered,2008Q4,Galway County,Number,734
-Births Registered,2008Q4,Ulster (pt),Number,1026
-Births Registered,2008Q4,Cavan,Number,272
-Births Registered,2008Q4,Donegal,Number,516
-Births Registered,2008Q4,Monaghan,Number,238
+Births Registered,2008Q3,1,Number,2037
+Births Registered,2008Q3,2,Number,737
+Births Registered,2008Q3,3,Number,1426
+Births Registered,2008Q3,4,Number,1254
+Births Registered,2008Q3,5,Number,11317
+Births Registered,2008Q3,6,Number,661
+Births Registered,2008Q3,7,Number,275
+Births Registered,2008Q3,8,Number,1043
+Births Registered,2008Q3,9,Number,399
+Births Registered,2008Q3,10,Number,325
+Births Registered,2008Q3,11,Number,204
+Births Registered,2008Q3,12,Number,574
+Births Registered,2008Q3,13,Number,978
+Births Registered,2008Q3,14,Number,333
+Births Registered,2008Q3,15,Number,401
+Births Registered,2008Q3,16,Number,670
+Births Registered,2008Q3,17,Number,5151
+Births Registered,2008Q3,18,Number,273
+Births Registered,2008Q3,19,Number,255
+Births Registered,2008Q3,20,Number,469
+Births Registered,2008Q3,21,Number,426
+Births Registered,2008Q3,22,Number,1763
+Births Registered,2008Q3,23,Number,515
+Births Registered,2008Q3,24,Number,253
+Births Registered,2008Q3,25,Number,543
+Births Registered,2008Q3,26,Number,327
+Births Registered,2008Q3,27,Number,327
+Births Registered,2008Q3,28,Number,
+Births Registered,2008Q3,29,Number,2083
+Births Registered,2008Q3,30,Number,277
+Births Registered,2008Q3,31,Number,114
+Births Registered,2008Q3,32,Number,446
+Births Registered,2008Q3,33,Number,244
+Births Registered,2008Q3,34,Number,234
+Births Registered,2008Q3,35,Number,768
+Births Registered,2008Q3,36,Number,1099
+Births Registered,2008Q3,37,Number,335
+Births Registered,2008Q3,38,Number,553
+Births Registered,2008Q3,39,Number,211
+Births Registered,2008Q4,1,Number,1867
+Births Registered,2008Q4,2,Number,1318
+Births Registered,2008Q4,3,Number,622
+Births Registered,2008Q4,4,Number,1107
+Births Registered,2008Q4,5,Number,10186
+Births Registered,2008Q4,6,Number,592
+Births Registered,2008Q4,7,Number,256
+Births Registered,2008Q4,8,Number,915
+Births Registered,2008Q4,9,Number,333
+Births Registered,2008Q4,10,Number,329
+Births Registered,2008Q4,11,Number,166
+Births Registered,2008Q4,12,Number,516
+Births Registered,2008Q4,13,Number,916
+Births Registered,2008Q4,14,Number,294
+Births Registered,2008Q4,15,Number,369
+Births Registered,2008Q4,16,Number,586
+Births Registered,2008Q4,17,Number,4678
+Births Registered,2008Q4,18,Number,220
+Births Registered,2008Q4,19,Number,197
+Births Registered,2008Q4,20,Number,426
+Births Registered,2008Q4,21,Number,343
+Births Registered,2008Q4,22,Number,1687
+Births Registered,2008Q4,23,Number,488
+Births Registered,2008Q4,24,Number,218
+Births Registered,2008Q4,25,Number,507
+Births Registered,2008Q4,26,Number,302
+Births Registered,2008Q4,27,Number,290
+Births Registered,2008Q4,28,Number,
+Births Registered,2008Q4,29,Number,1990
+Births Registered,2008Q4,30,Number,224
+Births Registered,2008Q4,31,Number,131
+Births Registered,2008Q4,32,Number,442
+Births Registered,2008Q4,33,Number,216
+Births Registered,2008Q4,34,Number,243
+Births Registered,2008Q4,35,Number,734
+Births Registered,2008Q4,36,Number,1026
+Births Registered,2008Q4,37,Number,272
+Births Registered,2008Q4,38,Number,516
+Births Registered,2008Q4,39,Number,238
 Births Registered,2008Q4,Outside the State,Number,
 Births Registered,2009Q1,State,Number,19437
 Births Registered,2009Q1,Dublin City,Number,1965
